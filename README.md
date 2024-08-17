@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=I'm%20Hwi&animation=&fontColor=00a3cc&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> JaeHwi </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">                  백엔드 웹 개발자를 목표로 공부하고 있습니다. </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙌 Intruduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;" align= "center">                  백엔드 웹 개발자를 목표로 공부하고 있는 심재휘 입니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
